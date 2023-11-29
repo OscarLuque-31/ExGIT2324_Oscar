@@ -8,6 +8,7 @@ módulo son:
 
   
 ![Imagen pablo picasso](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
+
 En la página web del IES Pablo Picasso(https://fpiespablopicasso.es/) podrás encontrar más información
 Si quieres contribuir al desarrollo de la  web, puedes clonar este repositorio con el comando
 
