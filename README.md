@@ -12,4 +12,6 @@ módulo son:
 En la página web del IES Pablo Picasso(https://fpiespablopicasso.es/) podrás encontrar más información
 Si quieres contribuir al desarrollo de la  web, puedes clonar este repositorio con el comando
 
+$ git clone https://github.com/EnriquePicasso/ExGIT2324.git
+
 
